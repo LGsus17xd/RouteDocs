@@ -1,0 +1,17 @@
+body{
+	width: 1360 px;
+	height: 768 px;
+	background: url("imagenes/patblan.jpg");
+	position: relative;
+}
+#mas{
+	width: 1360px;
+	height: 100px;
+	margin-top: 150px;
+   	float: left;
+	font-size: 100px;
+}
+#ima{
+	margin-left: 650px;
+	float: left;
+}
